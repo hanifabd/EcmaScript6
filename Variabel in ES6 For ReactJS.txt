@@ -1,0 +1,9 @@
+Variabel in ES6 For ReactJS
+- bisa diganti isinya
+    - var -> scopenya satu fungsi
+    - let -> scopenya satu blok - dalam satu kurawal
+- tidak bisa diubah
+    - const -> sifatnya sama seperti let
+
+Arrow Function
+- penyederhanaan suatu fungsi
